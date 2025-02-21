@@ -1,7 +1,0 @@
-{
-    "git.ignoreLimitWarning": true,
-    "python.defaultInterpreterPath": "/Users/liujunwen/.local/share/mamba/envs/ScienceAgent/bin/python:/Users/liujunwen/workspace/ScienceAgent",
-    "python.formatting.provider": "black",
-    "editor.formatOnSave": true,
-    "python.terminal.activateEnvironment": true
-}
