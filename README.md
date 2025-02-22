@@ -23,7 +23,7 @@ export DASHSCOPE_API_KEY="XXXXXX"
 Step1. 
 
 ```
-$git clone
+$git clone https://github.com/ljw23/ScienceAgent.git
 $cd ScienceAgent
 ```
 
